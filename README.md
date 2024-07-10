@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola, Soy Álvaro Olmedo Fernández 👋
 
+Soy estudiante del Grado Universitario de Ingeniería Informática y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)
 <!--
 **Olmedo30/Olmedo30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
