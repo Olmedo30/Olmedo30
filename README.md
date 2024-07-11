@@ -21,14 +21,13 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 	<img src="https://komarev.com/ghpvc/?username=Olmedo30&label=Profile%20views&color=0047AB&style=plastic?" alt="Olmedo30" height=25px, width=160px/> 
 </p>
 
-<!--Poner fotos que vaya encontrando por ahí interesantes-->
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <!---Poner el snake de la actividad que me hace gracias-->
 
 <!--Stats de GitHub-->
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
+
+<!--Poner fotos que vaya encontrando por ahí interesantes-->
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <details><summary><h3>🔥 Racha </h3></summary>
 
@@ -47,7 +46,7 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
   </p>
 </details>
 
-<details><summary><h3><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> Lenguajes más usados </h3></summary>
+<details><summary><h3>👨🏻‍💻 Lenguajes más usados </h3></summary>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Olmedo30&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
@@ -73,5 +72,5 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
     <img src="https://skillicons.dev/icons?i=aws,css,discord,eclipse,html,git,java,js,ps" />
   </a>
 </p>
-----
+
 
