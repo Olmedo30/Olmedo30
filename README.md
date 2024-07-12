@@ -1,7 +1,6 @@
 ## 👋 Hola, Soy Álvaro Olmedo Fernández 💻🖥️
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 Soy estudiante del Grado Universitario de Ingeniería Informática en la Universidad de Castilla-La Mancha (UCLM), y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ribera del Tajo. 
 
@@ -39,8 +38,7 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Olmedo30&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olmedo30&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Olmedo30&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>  
 <br/>
 
   </p>
@@ -48,7 +46,7 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 
 <details><summary><h3>👨🏻‍💻 Lenguajes más usados </h3></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Olmedo30&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olmedo30&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 
 </details>
 
