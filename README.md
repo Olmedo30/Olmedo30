@@ -59,7 +59,7 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Tecnologías que conozco </h2></summary>
+    <summary><h2 style="display: inline-block"><picture><img src = "" width = 50px></picture> Tecnologías que conozco </h2></summary>
   </ul>
 </div>
 
