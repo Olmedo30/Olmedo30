@@ -67,7 +67,7 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 ----
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,css,discord,eclipse,html,git,java,js,ps" />
+    <img src="https://skillicons.dev/icons?i=aws,css,discord,eclipse,html,git,java,js,ps,python" />
   </a>
 </p>
 
