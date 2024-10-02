@@ -1,16 +1,32 @@
-## 👋 Hola, Soy Álvaro Olmedo Fernández 💻🖥️
+<div style="position: relative; width: 100%; text-align: center;">
 
-## **Sobre mí**
+  <!-- Imagen de fondo -->
+  <img src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg" alt="Fondo" style="width:100%; opacity: 0.8;">
 
-![Fondo](https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg)
+  <!-- Texto encima de la imagen -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; max-width: 90%;">
+    <h1>👋 Hola, Soy Álvaro Olmedo Fernández 💻🖥️</h1>
 
-Soy estudiante del Grado Universitario de Ingeniería Informática en la Universidad de Castilla-La Mancha (UCLM), y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ribera del Tajo. 
+    <h2>Sobre mí</h2>
 
-Estoy interesado en crear aplicaciones tanto multiplataforma como web para poder satisfacer las necesidades de cualquiera, ya que me entusiasma ver cuando mis proyectos son útiles y desempeñan una función la cual sea de gran ayuda para cualquier finalidad.
+    <p>
+      Soy estudiante del Grado Universitario de Ingeniería Informática en la Universidad de Castilla-La Mancha (UCLM), y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ribera del Tajo.
+    </p>
 
-Además de estudiar dos cosas diferentes a la vez, me encantan todos los deportes pero en especial el tenis 🎾, jugar a videojuegos tanto solo como con amigos 🎮 y compartir momentos divertidos y memorables de esos que recuerdas para toda la vida.
+    <p>
+      Estoy interesado en crear aplicaciones tanto multiplataforma como web para poder satisfacer las necesidades de cualquiera, ya que me entusiasma ver cuando mis proyectos son útiles y desempeñan una función la cual sea de gran ayuda para cualquier finalidad.
+    </p>
 
-Próximamente estaré subiendo todo el material y temario visto tanto en el Grado Universitario como en el Grado Superior para ir completando mi perfil personal con ejercicios, prácticas y proyectos realizados durante este año.
+    <p>
+      Además de estudiar dos cosas diferentes a la vez, me encantan todos los deportes pero en especial el tenis 🎾, jugar a videojuegos tanto solo como con amigos 🎮 y compartir momentos divertidos y memorables de esos que recuerdas para toda la vida.
+    </p>
+
+    <p>
+      Próximamente estaré subiendo todo el material y temario visto tanto en el Grado Universitario como en el Grado Superior para ir completando mi perfil personal con ejercicios, prácticas y proyectos realizados durante este año.
+    </p>
+  </div>
+
+</div>
 
 <!--Texto escribiéndose y borrándose-->
 <p align="center">
@@ -27,10 +43,9 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 <!--Stats de GitHub-->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
-<!--Racha-->
-<details><summary><h3>🔥 Racha </h3></summary>
+<details><summary><h3>🔥 Racha</h3></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Olmedo30&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Olmedo30&theme=tokyonight_duo" alt="Olmedo30" /></p>
 
 </details>
 
@@ -46,13 +61,13 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 
 <details><summary><h3>👨🏻‍💻 Lenguajes más usados</h3></summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olmedo30&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olmedo30&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Olmedo30" height="230px"/>
 
 </details>
 
 <details><summary> <h3> :trophy: Trofeos de GitHub </h3></summary>
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olmedo30&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olmedo30&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Olmedo30" /></a> 
 </p>
 
 </details>
