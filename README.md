@@ -1,32 +1,26 @@
-<div style="position: relative; width: 100%; text-align: center;">
+<!-- Imagen de fondo -->
+<img src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg" alt="Fondo" style="width:100%;">
 
-  <!-- Imagen de fondo -->
-  <img src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg" alt="Fondo" style="width:100%; opacity: 0.8;">
+<!-- Texto colocado después de la imagen -->
+<h1 align="center">👋 Hola, Soy Álvaro Olmedo Fernández 💻🖥️</h1>
 
-  <!-- Texto encima de la imagen -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; max-width: 90%;">
-    <h1>👋 Hola, Soy Álvaro Olmedo Fernández 💻🖥️</h1>
+<h2 align="center">Sobre mí</h2>
 
-    <h2>Sobre mí</h2>
+<p align="center">
+  Soy estudiante del Grado Universitario de Ingeniería Informática en la Universidad de Castilla-La Mancha (UCLM), y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ribera del Tajo.
+</p>
 
-    <p>
-      Soy estudiante del Grado Universitario de Ingeniería Informática en la Universidad de Castilla-La Mancha (UCLM), y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ribera del Tajo.
-    </p>
+<p align="center">
+  Estoy interesado en crear aplicaciones tanto multiplataforma como web para poder satisfacer las necesidades de cualquiera, ya que me entusiasma ver cuando mis proyectos son útiles y desempeñan una función la cual sea de gran ayuda para cualquier finalidad.
+</p>
 
-    <p>
-      Estoy interesado en crear aplicaciones tanto multiplataforma como web para poder satisfacer las necesidades de cualquiera, ya que me entusiasma ver cuando mis proyectos son útiles y desempeñan una función la cual sea de gran ayuda para cualquier finalidad.
-    </p>
+<p align="center">
+  Además de estudiar dos cosas diferentes a la vez, me encantan todos los deportes pero en especial el tenis 🎾, jugar a videojuegos tanto solo como con amigos 🎮 y compartir momentos divertidos y memorables de esos que recuerdas para toda la vida.
+</p>
 
-    <p>
-      Además de estudiar dos cosas diferentes a la vez, me encantan todos los deportes pero en especial el tenis 🎾, jugar a videojuegos tanto solo como con amigos 🎮 y compartir momentos divertidos y memorables de esos que recuerdas para toda la vida.
-    </p>
-
-    <p>
-      Próximamente estaré subiendo todo el material y temario visto tanto en el Grado Universitario como en el Grado Superior para ir completando mi perfil personal con ejercicios, prácticas y proyectos realizados durante este año.
-    </p>
-  </div>
-
-</div>
+<p align="center">
+  Próximamente estaré subiendo todo el material y temario visto tanto en el Grado Universitario como en el Grado Superior para ir completando mi perfil personal con ejercicios, prácticas y proyectos realizados durante este año.
+</p>
 
 <!--Texto escribiéndose y borrándose-->
 <p align="center">
