@@ -1,7 +1,9 @@
 ## 👋 Hola, Soy Álvaro Olmedo Fernández 💻🖥️
-<div>
-  <img align="right" width="400" alt="Black dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
+
 ## **Sobre mí**
+
+<div>
+  <img align="right" width="300" alt="Black dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
 Soy estudiante del Grado Universitario de Ingeniería Informática en la Universidad de Castilla-La Mancha (UCLM), y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ribera del Tajo. 
 Estoy interesado en crear aplicaciones tanto multiplataforma como web para poder satisfacer las necesidades de cualquiera, ya que me entusiasma ver cuando mis proyectos son útiles y desempeñan una función la cual sea de gran ayuda para cualquier finalidad.
 Además de estudiar dos cosas diferentes a la vez, me encantan todos los deportes pero en especial el tenis 🎾, jugar a videojuegos tanto solo como con amigos 🎮 y compartir momentos divertidos y memorables de esos que recuerdas para toda la vida.
