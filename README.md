@@ -47,13 +47,13 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 </details>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><picture><img src = "" width = 50px></picture> Tecnologías que conozco </h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco</h2></summary>
   </ul>
 </div>
 
 </div>
 <!--Iconos de lenguajes y tecnologías que conozco: https://github.com/tandpfun/skill-icons#readme-->
-----
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,css,discord,eclipse,html,git,java,js,ps,python" />
