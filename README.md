@@ -11,7 +11,7 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 
 <!--Texto escribiendose y borrandose: Activo y listo;Preparado para aprender cosas nuevas cada día;Muy entusiasta;Siempre es bueno divertirse a menudo;Estudiante muy novato xD-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Activo+y+listo;Preparado+para+aprender+cosas+nuevas;Muy+entusiasta;Siempre+es+bueno+divertirse+a+menudo;Estudiante+muy+novato+xD"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?		font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Activo+y+listo;Preparado+para+aprender+cosas+nuevas;Muy+entusiasta;Siempre+es+bueno+divertirse+a+menudo;Estudiante+muy+novato+xD"></a>
 </p>
 
 <!--Vistas del perfil-->
