@@ -18,7 +18,6 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Olmedo30&label=Profile%20views&color=0047AB&style=plastic?" alt="Olmedo30" height=25px, width=160px/> 
 </p>
-<!---Poner el snake de la actividad que me hace gracias-->
 
 <!--Stats de GitHub-->
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
@@ -52,8 +51,8 @@ Próximamente estaré subiendo todo el material y temario visto tanto en el Grad
 </div>
 
 </div>
-<!--Iconos de lenguajes y tecnologías que conozco: https://github.com/tandpfun/skill-icons#readme-->
 
+<!--Iconos de lenguajes y tecnologías que conozco: https://github.com/tandpfun/skill-icons#readme-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,css,discord,eclipse,html,git,java,js,ps,python" />
