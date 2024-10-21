@@ -1,7 +1,7 @@
 ## 👋 Hola, Soy Álvaro Olmedo Fernández 💻🖥️
 
 ## **Sobre mí**
-
+j
 <div>
   <img align="right" width="200" alt="Black dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
 Soy estudiante del Grado Universitario de Ingeniería Informática en la Universidad de Castilla-La Mancha (UCLM), y a su vez también soy estudiante de 2º año de Formación Profesional del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ribera del Tajo. <br>
